@@ -1,0 +1,54 @@
+{
+  "flashcards": [
+    {
+      "title": "Efeitos colaterais2",
+      "description": "Também conhecido como 'side effects'. Representa tudo o que o React não controla diretamente. Bons exemplos são a manipulação manual do DOM e requisições HTTP.2",
+      "id": "0c5263d2-7085-426e-ab51-aa072798824d"
+    },
+    {
+      "id": "0f15777c-5123-420f-94e0-fb4c915c51c4",
+      "title": "Estado",
+      "description": "Também conhecido como 'state'. Pode ser representando por 'dados que mudam com o tempo' e que também podem ser manipulados pelos usuários, geralmente através de formulários, e também por API's, outros componentes, etc."
+    },
+    {
+      "id": "fbab3070-1085-433f-adde-ae1db4b607d0",
+      "title": "Function Components",
+      "description": "Componentes baseados em função. São amplamente utilizados atualmente em detrimento às Class Components, que aos poucos podem se tornar obsoletas."
+    },
+    {
+      "id": "82da4f76-a5ee-4dc9-9838-0dc3281680ad",
+      "title": "Hooks",
+      "description": "Estruturas que são acopladas às funções para aumentar o poder de componentes React. Podem permitir a utilização de estado e gerenciamento de efeitos colaterais, por exemplo."
+    },
+    {
+      "id": "b1a6ef8f-5736-4e07-ad22-76ccfd604895",
+      "title": "JSX",
+      "description": "JavaScript and XML. Linguagem de marcação que pode ser utilizada para a criação de componentes React de forma mais declarativa. É bem semelhante ao HTML."
+    },
+    {
+      "id": "d71e4fab-e231-4605-8f8b-02c8f822ac30",
+      "title": "React",
+      "description": "Biblioteca criada pelo Facebook para renderização otimizada. Pode ser utilizada em diversas plataformas como web, mobile e Realidade Virtual."
+    },
+    {
+      "id": "89e5217c-ac80-41d9-a269-94bb7ffc0268",
+      "title": "useEffect",
+      "description": "Hook nativo do React para lidar com efeitos colaterais."
+    },
+    {
+      "id": "22668073-9220-485e-8ede-d7885106b28b",
+      "title": "useState",
+      "description": "Hook nativo do React que permite o gerenciamento de estado da aplicação e de componentes."
+    },
+    {
+      "id": "1fe38717-ea9a-4ad6-9adb-582225b2a53d",
+      "title": "Virtual DOM",
+      "description": "Estrutura utilizada pelo React para manipulação do DOM em memória. Permite a atualização do DOM real somente onde necessário, o que pode garantir uma melhor performance da aplicação."
+    },
+    {
+      "id": "91ac5bd0-95fa-4ac8-ab4e-c5869aea5b8e",
+      "title": "NodeJS",
+      "description": "Construir back-end com javascript"
+    }
+  ]
+}
